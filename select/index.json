@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "あなただけを ～Summer Heartbreak～",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-11T14:37:54.250101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなただけを ～Summer Heartbreak～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/01_あなただけを_~Summer_Heartbreak~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなただけを 〜‎Summer Heartbreak〜‎",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/02_あなただけを_〜‎Summer_Heartbreak〜‎_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなただけを～Summer Heartbrea",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/03_あなただけを~Summer_Heartbrea_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなただけを～Summer Heartbreak～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_あなただけを~Summer_Heartbreak~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あなただけを ～Summer Heartbreak～ [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/05_あなただけを_~Summer_Heartbreak~_[2024_Remaster]_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなただけを ～Summer Heartbreak～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_あなただけを_~Summer_Heartbreak~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あなただけを ～Summer Heartbreak～",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/07_あなただけを_~Summer_Heartbreak~_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あなただけを〜Summer Heartbreak〜",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/08_あなただけを〜Summer_Heartbreak〜_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Close To You -あなただけを-",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/09_Close_To_You_-あなただけを-_杏里.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Close To You -あなただけを-",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/10_Close_To_You_-あなただけを-_Anri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなただけを～Summer Heartbreak～",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_あなただけを~Summer_Heartbreak~_サザンオールスターズ.txt"
+    }
+  ]
+}
